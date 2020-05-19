@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CoronaToday/static/css/main.79ab9c26.chunk.css",
+    "main.js": "/CoronaToday/static/js/main.c7e8af50.chunk.js",
+    "main.js.map": "/CoronaToday/static/js/main.c7e8af50.chunk.js.map",
+    "runtime-main.js": "/CoronaToday/static/js/runtime-main.ba75e378.js",
+    "runtime-main.js.map": "/CoronaToday/static/js/runtime-main.ba75e378.js.map",
+    "static/js/2.31870229.chunk.js": "/CoronaToday/static/js/2.31870229.chunk.js",
+    "static/js/2.31870229.chunk.js.map": "/CoronaToday/static/js/2.31870229.chunk.js.map",
+    "index.html": "/CoronaToday/index.html",
+    "precache-manifest.eebd3e747455b5a844afbb136e7bcbc8.js": "/CoronaToday/precache-manifest.eebd3e747455b5a844afbb136e7bcbc8.js",
+    "service-worker.js": "/CoronaToday/service-worker.js",
+    "static/css/main.79ab9c26.chunk.css.map": "/CoronaToday/static/css/main.79ab9c26.chunk.css.map",
+    "static/js/2.31870229.chunk.js.LICENSE.txt": "/CoronaToday/static/js/2.31870229.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba75e378.js",
+    "static/js/2.31870229.chunk.js",
+    "static/css/main.79ab9c26.chunk.css",
+    "static/js/main.c7e8af50.chunk.js"
+  ]
+}
